@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "balmy-state-329418",
+  "private_key_id": "2812309f0e5504936d14a98b0c7301baa52ec913",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsMG9CDLJgU63h\nn5r99pH7eq3plm7LldNfWVkwh7TUTHfxity3WoQ21JB4kKLnkqiQN1y7k6eN9HfG\n29Q1y4nmZsZCYwQai/nrY1O4VvsF88MHPeY+zthDTktXRlg/eSEmg7oLcbFuY0a2\nBTZR9vcgEz/DXYz7CytkNttW2KXC/vJLRYMEBmglepME2EHTtYIAkC9THTk9TFz0\nVIENZ9UjAtgdZZgAq8W5Oz0ofrZzsQ/cy2SkLp244VDdr85p/BYuNTWNxCdxCl/f\n9QBeuE+UMxbW8DF1pwGqEZTmL0LBOgwoLLp5n34/BAwLH1VraR5/SbhP2tmiRjGb\nX47WTHjJAgMBAAECggEAAmK5Z+TdI9CE/DdF4nbkFuPgPPhEmLV+tDd8sNtwefCF\nSOdvn2q1ojzXs5Ptbd/uTfE2a7LkA2d7sVmiWwxy4KpT3N+aUvPVhplds5Qg7jgu\nX49P/VbIUEZpbNAgsOBwwSPaFAaDOtBNToBL/F67lcoue/pz1ZaWB1FrQIzH3ye7\nQc77UYl7knhR8ZmgQ0lf5V1AzTNs9/JsTUDW5j/1VSCHEx4poGEhgax70Pyjcm5/\ny6mRM/LnncWk3s7XbnPfMiQSJGJN4gFVq8NeMEsFgKvQ9spOS7MiYjCJ8/ftxZo2\nVVVSYnU3GrKit/XBKc7UsRid51xBRGj3DFDJ0ZagMQKBgQDpmXH5bRV66FaByZEu\nxnSuIZl2x2b2JBylUlooGKj9hRZPmme9IRFtjDfp6nhqzqgIacz7jlzsH+TRJSgy\nq4ka3r/6iBvvUrg8fitoLWBjBzbH9AMDpspfTvTeSZI/w1VJP3ayR/1ROrTxplBN\nC4RJglNDyXt3ArG7LR20p1tnkwKBgQC8s3NcVU43rxMIy8BYtxUTYXWL3xoFP7OY\nJZpyBfvb0mdmx2+MV36/I24KpscE278Y4kHU7A/XwBo0CK5yx6rnkjO9tpap7y0D\nftDwQMpy1wuiu6k1IwpI49/GQdzNjkAgpAPtMJ5aJsdflSsxGNjZhQ1KzfCwQDgj\nvl+zK27fswKBgQDkWHG4LzCjH4CIiD/aKHagTQnVuR/llfFGjdTBgzGV+MWRdM7Z\navy9SCbUCrZBOde5uap9cHFXA+pJo3fC6DkywfGJ9gjQjdy4jWDjChBBXSjolpdn\nt1/1gJoOvH4wxEGXQ2lE5ugxwiBkY331gj+DF9lK1yZQdJrF7FkwYbQQ7wKBgD67\nPX+VkGIsnpxO+AvGGYiO3r/4FDNogPD0l0qOuLLUWLGvXWL/d1Bdm+iIlyMDVp0U\nIqSBMacc4tknha78t9EyJmdMOvwVWhaOYzFrqKHS4bhgwJi8pF+k+bB0Fs5zGth/\nDhsdDZeUyrT45xn0U6rEc63JltlREBi54iCzMLHHAoGAUsj5glg8S4zNS0GP7Oxy\ne/YkPkW9fTDMHjjHzgPkazP16SenOj6+GUE8+ELCAQXryPwS7au1rP1/KVUfHyLO\nzv5qCDF5UHyRWyyhCskZQ1T1w93So7Tkl+4Q7fnQZWtSsVN+BMUYtI5UsOnNpNns\nInWUqS2NPpnY3ReFhQcHBGc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "translate-api-aloy@balmy-state-329418.iam.gserviceaccount.com",
+  "client_id": "116668586534028988190",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translate-api-aloy%40balmy-state-329418.iam.gserviceaccount.com"
+}
